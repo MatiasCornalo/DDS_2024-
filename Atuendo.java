@@ -24,4 +24,4 @@ class Atuendo {
 
 
 // Comenzamos por los autuendos, elegi modelarlos  enn baasae a una clase "atuendo" que tiene como variable una lista de prendas
-// Cada atuendo conoce laas prendas que tiene
+// Cada atuendo conoce las prendas que tiene
